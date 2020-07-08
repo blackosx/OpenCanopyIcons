@@ -1,6 +1,6 @@
 <i>Earlier icons can be found in the [OpenCanopyIcons-CC0 Repository](https://github.com/blackosx/OpenCanopyIcons-CC0).</i>
 
-# OpenCanopyIconRepo
+# OpenCanopyIcon
 This repository contains sets of individual icons intended for use with the OpenCanopy GUI frontend for [OpenCore](https://github.com/acidanthera/OpenCorePkg).
 The files are in Apple .icns file format and contain only images sized 128x128px and 256x256px.
 
