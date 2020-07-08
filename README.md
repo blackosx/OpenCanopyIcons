@@ -12,5 +12,7 @@ Please note that these are not complete sets of images that can be directly used
 
 For details about how to use these then please consult the [OpenCore configuration documentation PDF](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf).
 
+[Preview Image of Set3](https://i.ibb.co/0KM8wtH/Set3-New-Drives-1.jpg)
+
 ## Discussion
 [InsanelyMac.com](https://www.insanelymac.com/forum/topic/344251-opencanopy-icons/)
