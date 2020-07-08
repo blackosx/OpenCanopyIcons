@@ -1,3 +1,5 @@
+<img src="https://i.ibb.co/NKsb23Y/repo-Image-Set3.png" alt="repo-Image-Set3" border="0">
+
 <i>Earlier icons can be found in the [OpenCanopyIcons-CC0 Repository](https://github.com/blackosx/OpenCanopyIcons-CC0).</i>
 
 # OpenCanopyIcon
