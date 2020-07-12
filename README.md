@@ -20,8 +20,5 @@ For details about how to use these then please consult the [OpenCore configurati
 ## License
 
 Set1 and Set2 are released under the CC0 1.0 Universal (CC0 1.0) license to dedicate the work to the public domain so those directories each include that license file.
-
-Set3 onwards do not pertain to any license which I therefore understand means it's under exclusive copyright by default. [More Details](https://choosealicense.com/no-permission/)
-
 ## Discussion
 [InsanelyMac.com](https://www.insanelymac.com/forum/topic/344251-opencanopy-icons/)
