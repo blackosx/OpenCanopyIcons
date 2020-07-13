@@ -11,6 +11,9 @@ Please note that these are not complete sets of images that can be directly used
 For details about how to use these then please consult the [OpenCore configuration documentation PDF](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf).
 
 ## Previews
+[Set1 - All Current Icons on Grey background](https://i.ibb.co/FXVqQtT/Set1-All-Current-Icons-Grey-BG.jpg)<br>
+[Set1 - All Current Icons on Black background](https://i.ibb.co/RDK9v1Z/Set1-All-Current-Icons-Black-BG.jpg)
+
 [Set2 - All Current Icons on Grey background](https://i.ibb.co/ZTHytc4/Set2-All-Current-Icons-Grey-BG.jpg)<br>
 [Set2 - All Current Icons on Black background](https://i.ibb.co/Tcn05mb/Set2-All-Current-Icons-Black-BG.jpg)
 
