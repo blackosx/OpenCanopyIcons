@@ -17,19 +17,21 @@ For details about how to use these then please consult the [OpenCore configurati
 [Set2 - All Current Icons on Grey background](https://i.ibb.co/ZTHytc4/Set2-All-Current-Icons-Grey-BG.jpg)<br>
 [Set2 - All Current Icons on Black background](https://i.ibb.co/Tcn05mb/Set2-All-Current-Icons-Black-BG.jpg)
 
-[Set3 - Original Light and Dark Icons on Grey background](https://i.ibb.co/S3hL43n/Open-Canopy-Icons-Set3-Original-Light-and-Dark.jpg)<br>
-[Set3 - Aqua Icons on Grey background](https://i.ibb.co/c8CTF2C/Open-Canopy-Icons-Set3-Aqua.jpg)<br>
-[Set3 - Blue Icons on Grey background](https://i.ibb.co/7S9XBP6/Open-Canopy-Icons-Set3-Blue.jpg)<br>
-[Set3 - Cardinal Icons on Grey background](https://i.ibb.co/nDsqrbC/Open-Canopy-Icons-Set3-Cardinal.jpg)<br>
-[Set3 - Green Icons on Grey background](https://i.ibb.co/rbJNKLs/Open-Canopy-Icons-Set3-Green.jpg)<br>
-[Set3 - LightBlue Icons on Grey background](https://i.ibb.co/hy159fR/Open-Canopy-Icons-Set3-Light-Blue.jpg)<br>
-[Set3 - Lime Icons on Grey background](https://i.ibb.co/Kmfkgz7/Open-Canopy-Icons-Set3-Lime.jpg)<br>
-[Set3 - Orange Icons on Grey background](https://i.ibb.co/Ytn8KhC/Open-Canopy-Icons-Set3-Orange.jpg)<br>
-[Set3 - Pink Icons on Grey background](https://i.ibb.co/bPSMyy1/Open-Canopy-Icons-Set3-Pink.jpg)<br>
-[Set3 - Purple Icons on Grey background](https://i.ibb.co/YR26Jgr/Open-Canopy-Icons-Set3-Purple.jpg)<br>
-[Set3 - Red Icons on Grey background](https://i.ibb.co/Fx2zw8V/Open-Canopy-Icons-Set3-Red.jpg)<br>
-[Set3 - Violet Icons on Grey background](https://i.ibb.co/wL8hHRt/Open-Canopy-Icons-Set3-Violet.jpg)<br>
-[Set3 - Yellow Icons on Grey background](https://i.ibb.co/GpfnL4L/Open-Canopy-Icons-Set3-Yellow.jpg)
+[Set3 - Original Light and Dark Icons on Grey background(1/3)](https://i.ibb.co/KzqFF30/Open-Core-Icons-Set3-Sheet-Grey-Original-Light-and-Grey-0.jpg)<br>
+[Set3 - Original Light and Dark Icons on Grey background(2/3)](https://i.ibb.co/Xk6QKtp/Open-Core-Icons-Set3-Sheet-Grey-Original-Light-and-Grey-1.jpg)<br>
+[Set3 - Original Light and Dark Icons on Grey background(3/3)](https://i.ibb.co/MnC6sBy/Open-Core-Icons-Set3-Sheet-Grey-Original-Light-and-Grey-2.jpg)<br>
+[Set3 - Aqua Icons on Grey background](https://i.ibb.co/ZLT06Vc/Open-Core-Icons-Set3-Sheet-Grey-Aqua.jpg)<br>
+[Set3 - Blue Icons on Grey background](https://i.ibb.co/5hn3X5p/Open-Core-Icons-Set3-Sheet-Grey-Blue.jpg)<br>
+[Set3 - Cardinal Icons on Grey background](https://i.ibb.co/CmmVbY9/Open-Core-Icons-Set3-Sheet-Grey-Cardinal.jpg)<br>
+[Set3 - Green Icons on Grey background](https://i.ibb.co/g6Sgh84/Open-Core-Icons-Set3-Sheet-Grey-Green.jpg)<br>
+[Set3 - LightBlue Icons on Grey background](https://i.ibb.co/HPZS62F/Open-Core-Icons-Set3-Sheet-Grey-Light-Blue.jpg)<br>
+[Set3 - Lime Icons on Grey background](https://i.ibb.co/rwprPLc/Open-Core-Icons-Set3-Sheet-Grey-Lime.jpg)<br>
+[Set3 - Orange Icons on Grey background](https://i.ibb.co/BLG5BDx/Open-Core-Icons-Set3-Sheet-Grey-Orange.jpg)<br>
+[Set3 - Pink Icons on Grey background](https://i.ibb.co/ZSSn5JS/Open-Core-Icons-Set3-Sheet-Grey-Pink.jpg)<br>
+[Set3 - Purple Icons on Grey background](https://i.ibb.co/WWbPL0f/Open-Core-Icons-Set3-Sheet-Grey-Purple.jpg)<br>
+[Set3 - Red Icons on Grey background](https://i.ibb.co/thnsRFW/Open-Core-Icons-Set3-Sheet-Grey-Red.jpg)<br>
+[Set3 - Violet Icons on Grey background](https://i.ibb.co/ZxvYxsq/Open-Core-Icons-Set3-Sheet-Grey-Violet.jpg)<br>
+[Set3 - Yellow Icons on Grey background](https://i.ibb.co/tHMh1mv/Open-Core-Icons-Set3-Sheet-Grey-Yellow.jpg)
 
 ## License
 
