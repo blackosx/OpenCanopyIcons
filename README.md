@@ -17,10 +17,9 @@ For details about how to use these then please consult the [OpenCore configurati
 [Set2 - All Current Icons on Grey background](https://i.ibb.co/ZTHytc4/Set2-All-Current-Icons-Grey-BG.jpg)<br>
 [Set2 - All Current Icons on Black background](https://i.ibb.co/Tcn05mb/Set2-All-Current-Icons-Black-BG.jpg)
 
-[Set3 - Original Light and Dark Icons on Grey background (1/4)](Set3/Original&#32;Light&#32;and&#32;Dark/preview_sheet_Original&#32;Light&#32;and&#32;Dark-0.jpg)<br>
-[Set3 - Original Light and Dark Icons on Grey background (2/4)](Set3/Original&#32;Light&#32;and&#32;Dark/preview_sheet_Original&#32;Light&#32;and&#32;Dark-1.jpg)<br>
-[Set3 - Original Light and Dark Icons on Grey background (3/4)](Set3/Original&#32;Light&#32;and&#32;Dark/preview_sheet_Original&#32;Light&#32;and&#32;Dark-2.jpg)<br>
-[Set3 - Original Light and Dark Icons on Grey background (4/4)](Set3/Original&#32;Light&#32;and&#32;Dark/preview_sheet_Original&#32;Light&#32;and&#32;Dark-3.jpg)<br>
+[Set3 - Original Light and Dark Icons on Grey background (1/3)](Set3/Original&#32;Light&#32;and&#32;Dark/preview_sheet_Original&#32;Light&#32;and&#32;Dark-0.jpg)<br>
+[Set3 - Original Light and Dark Icons on Grey background (2/3)](Set3/Original&#32;Light&#32;and&#32;Dark/preview_sheet_Original&#32;Light&#32;and&#32;Dark-1.jpg)<br>
+[Set3 - Original Light and Dark Icons on Grey background (3/3)](Set3/Original&#32;Light&#32;and&#32;Dark/preview_sheet_Original&#32;Light&#32;and&#32;Dark-2.jpg)<br>
 [Set3 - Aqua Icons on Grey background](Set3/Aqua/preview_sheet_Aqua.jpg)<br>
 [Set3 - Blue Icons on Grey background](Set3/Blue/preview_sheet_Blue.jpg)<br>
 [Set3 - Cardinal Icons on Grey background](Set3/Cardinal/preview_sheet_Cardinal.jpg)<br>
