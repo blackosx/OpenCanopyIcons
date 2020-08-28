@@ -33,6 +33,11 @@ For details about how to use these then please consult the [OpenCore configurati
 [Set3 - Violet Icons on Grey background](Set3/Violet/preview_sheet_Violet.jpg)<br>
 [Set3 - Yellow Icons on Grey background](Set3/Yellow/preview_sheet_Yellow.jpg)
 
+Set3 - Special editions:<br>
+
+[Set3 - Silver&Gold Icons on Grey background](Set3/SE_Silver%26Gold/preview_sheet_Sliver%26Gold.jpg)<br>
+[Set3 - SilverBlue Icons on Grey background](Set3/SE_SilverBlue/preview_sheet_SilverBlue.jpg)
+
 ## License
 
 Set1 and Set2 are released under the CC0 1.0 Universal (CC0 1.0) license to dedicate the work to the public domain so those directories each include that license file.
