@@ -38,6 +38,8 @@ Set3 - Special editions:<br>
 [Set3 - Silver&Gold Icons on Grey background](Set3/SE_Silver%26Gold/preview_sheet_Sliver%26Gold.jpg)<br>
 [Set3 - SilverBlue Icons on Grey background](Set3/SE_SilverBlue/preview_sheet_SilverBlue.jpg)
 
+[Set4 - White and other Icons on Grey background](Set4/Grey/preview_sheet_Grey.jpg)
+
 ## License
 
 Set1 and Set2 are released under the CC0 1.0 Universal (CC0 1.0) license to dedicate the work to the public domain so those directories each include that license file.
