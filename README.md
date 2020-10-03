@@ -40,7 +40,8 @@ Set3 - Special editions:<br>
 
 [Set4 - White and other Icons on Grey background](Set4/Grey/preview_sheet_Grey.jpg)<br>
 [Set4 - Black_Outlines_Blue_Purple on Black background](Set4/Black_Outlines_Blue_Purple/preview_sheet_Black_Outlines_Blue_Purple.png)<br>
-[Set4 - Black_Shadows_Coloured on Black background](Set4/Black_Shadows_Coloured/preview_sheet_Black_Shadows_Coloured.jpg)
+[Set4 - Black_Shadows_Coloured on Black background](Set4/Black_Shadows_Coloured/preview_sheet_Black_Shadows_Coloured.jpg)<br>
+[Set4 - Black_Shadows_White on Black background](Set4/Black_Shadows_White/preview_sheet_Black_Shadows_White.jpg)
 
 ## License
 
