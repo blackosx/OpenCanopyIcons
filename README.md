@@ -39,7 +39,8 @@ Set3 - Special editions:<br>
 [Set3 - SilverBlue Icons on Grey background](Set3/SE_SilverBlue/preview_sheet_SilverBlue.jpg)
 
 [Set4 - White and other Icons on Grey background](Set4/Grey/preview_sheet_Grey.jpg)<br>
-[Set4 - Black Outlines_Blue_Purple on Black background](Set4/Black_Outlines_Blue_Purple/preview_sheet_Black_Outlines_Blue_Purple.png)
+[Set4 - Black Outlines_Blue_Purple on Black background](Set4/Black_Outlines_Blue_Purple/preview_sheet_Black_Outlines_Blue_Purple.png)<br>
+[Set4 - Black_Shadows_Coloured on Black background](Set4/Black_Shadows_Coloured/preview_sheet_Black_Shadows_Coloured.jpg)
 
 ## License
 
