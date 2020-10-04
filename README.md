@@ -36,8 +36,9 @@ For details about how to use these then please consult the [OpenCore configurati
 [Set3 (Special edition)- Silver&Gold Icons on Grey background](Set3/SE_Silver%26Gold/preview_sheet_Sliver%26Gold.jpg)<br>
 [Set3 (Special edition)- SilverBlue Icons on Grey background](Set3/SE_SilverBlue/preview_sheet_SilverBlue.jpg)
 
-[Set4 - White and other Icons on Grey background (Note: These icons are on solid grey background)](Set4/Grey/preview_sheet_Grey.jpg)<br>
-[Set4 - White and other Icons on Grey background (Note: These icons are on transparent background)](Set4/Grey_Alpha/preview_sheet_Grey_Alpha.jpg)<br>
+[Set4 - Light Grey Icons on Grey background (Note: These icons are on solid grey background)](Set4/Grey/preview_sheet_Grey.jpg)<br>
+[Set4 - Light Grey_Alpha Icons on Grey background](Set4/Grey_Alpha/preview_sheet_Grey_Alpha.jpg)<br>
+[Set4 - Light Grey_Alpha Icons without glow on Grey background](Set4/Grey_Alpha_Without_Glow/preview_sheet_Grey_Alpha_Without_Glow.jpg)<br>
 [Set4 - Black_Outlines_Blue_Purple on Black background](Set4/Black_Outlines_Blue_Purple/preview_sheet_Black_Outlines_Blue_Purple.png)<br>
 [Set4 - Black_Shadows_Coloured on Black background](Set4/Black_Shadows_Coloured/preview_sheet_Black_Shadows_Coloured.jpg)<br>
 [Set4 - Black_Shadows_White on Black background](Set4/Black_Shadows_White/preview_sheet_Black_Shadows_White.jpg)<br>
