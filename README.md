@@ -38,6 +38,7 @@ For details about how to use these then please consult the [OpenCore configurati
 
 [Set4 - Light Grey (Non-Alpha) Icons on Grey background (Note: These icons are on solid grey background)](Set4/Grey/preview_sheet_Grey.jpg)<br>
 [Set4 - Grey Icons with ghost shadow on black background](Set4/Grey_Ghost_Shadow/preview_sheet_Grey_Ghost_Shadow.jpg)<br>
+[Set4 - Coloured Icons with ghost shadow on black background](Set4/Coloured_Ghost_Shadow/preview_sheet_Coloured_Ghost_Shadow.jpg)<br>
 [Set4 - White_Icons on Grey background](Set4/Grey_Alpha/preview_sheet_Grey_Alpha.jpg)<br>
 [Set4 - White_Icons without glow on Grey background](Set4/Grey_Alpha_Without_Glow/preview_sheet_Grey_Alpha_Without_Glow.jpg)<br>
 [Set4 - White_Plain Icons Grey background](Set4/White_Plain/preview_sheet_White_Plain.jpg)<br>
