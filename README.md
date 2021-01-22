@@ -18,9 +18,8 @@ For details about how to use these then please consult the [OpenCore configurati
 [Set2 - All Current Icons on Grey background](https://i.ibb.co/ZTHytc4/Set2-All-Current-Icons-Grey-BG.jpg)<br>
 [Set2 - All Current Icons on Black background](https://i.ibb.co/Tcn05mb/Set2-All-Current-Icons-Black-BG.jpg)
 
-[Set3 - Original Light and Dark Icons on Grey background (1/3)](Set3/Original&#32;Light&#32;and&#32;Dark/preview_sheet_Original&#32;Light&#32;and&#32;Dark-0.jpg)<br>
-[Set3 - Original Light and Dark Icons on Grey background (2/3)](Set3/Original&#32;Light&#32;and&#32;Dark/preview_sheet_Original&#32;Light&#32;and&#32;Dark-1.jpg)<br>
-[Set3 - Original Light and Dark Icons on Grey background (3/3)](Set3/Original&#32;Light&#32;and&#32;Dark/preview_sheet_Original&#32;Light&#32;and&#32;Dark-2.jpg)<br>
+[Set3 - Light Icons on Grey background](Set3/Light/preview_sheet_Light.jpg)<br>
+[Set3 - Dark Icons on Grey background](Set3/Dark/preview_sheet_Dark.jpg)<br>
 [Set3 - Aqua Icons on Grey background](Set3/Aqua/preview_sheet_Aqua.jpg)<br>
 [Set3 - Blue Icons on Grey background](Set3/Blue/preview_sheet_Blue.jpg)<br>
 [Set3 - Cardinal Icons on Grey background](Set3/Cardinal/preview_sheet_Cardinal.jpg)<br>
@@ -33,8 +32,8 @@ For details about how to use these then please consult the [OpenCore configurati
 [Set3 - Red Icons on Grey background](Set3/Red/preview_sheet_Red.jpg)<br>
 [Set3 - Violet Icons on Grey background](Set3/Violet/preview_sheet_Violet.jpg)<br>
 [Set3 - Yellow Icons on Grey background](Set3/Yellow/preview_sheet_Yellow.jpg)<br>
-[Set3 (Special edition)- Silver&Gold Icons on Grey background](Set3/SE_Silver%26Gold/preview_sheet_Sliver%26Gold.jpg)<br>
-[Set3 (Special edition)- SilverBlue Icons on Grey background](Set3/SE_SilverBlue/preview_sheet_SilverBlue.jpg)
+[Set3 (Special edition)- Silver&Gold Icons on Grey background](Set3/SilverGold/preview_sheet_SilverGold.jpg)<br>
+[Set3 (Special edition)- SilverBlue Icons on Grey background](Set3/SilverBlue/preview_sheet_SilverBlue.jpg)
 
 [Set4 - Light Grey (Non-Alpha) Icons on Grey background (Note: These icons are on solid grey background)](Set4/Grey/preview_sheet_Grey.jpg)<br>
 [Set4 - Grey Icons with ghost shadow on black background](Set4/Grey_Ghost_Shadow/preview_sheet_Grey_Ghost_Shadow.jpg)<br>
