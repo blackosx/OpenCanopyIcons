@@ -12,12 +12,18 @@ For details about how to use these then please consult the [OpenCore configurati
 
 ## Previews
 
+**Set1**<br>
+*Initial icon design using flat matte materials*<br>
 [Set1 - All Current Icons on Grey background](https://i.ibb.co/FXVqQtT/Set1-All-Current-Icons-Grey-BG.jpg)<br>
 [Set1 - All Current Icons on Black background](https://i.ibb.co/RDK9v1Z/Set1-All-Current-Icons-Black-BG.jpg)
 
+**Set2**<br>
+*Same icon as Set1 but with using more reflective materials*<br>
 [Set2 - All Current Icons on Grey background](https://i.ibb.co/ZTHytc4/Set2-All-Current-Icons-Grey-BG.jpg)<br>
 [Set2 - All Current Icons on Black background](https://i.ibb.co/Tcn05mb/Set2-All-Current-Icons-Black-BG.jpg)
 
+**Set3**<br>
+*Narrowed Set2 device icons and additionally designed devices, all with brighter lighting*<br>
 [Set3 - Light Icons on Grey background](Set3/Light/preview_sheet_Light.jpg)<br>
 [Set3 - Dark Icons on Grey background](Set3/Dark/preview_sheet_Dark.jpg)<br>
 [Set3 - Aqua Icons on Grey background](Set3/Aqua/preview_sheet_Aqua.jpg)<br>
@@ -31,10 +37,26 @@ For details about how to use these then please consult the [OpenCore configurati
 [Set3 - Purple Icons on Grey background](Set3/Purple/preview_sheet_Purple.jpg)<br>
 [Set3 - Red Icons on Grey background](Set3/Red/preview_sheet_Red.jpg)<br>
 [Set3 - Violet Icons on Grey background](Set3/Violet/preview_sheet_Violet.jpg)<br>
-[Set3 - Yellow Icons on Grey background](Set3/Yellow/preview_sheet_Yellow.jpg)<br>
-[Set3 (Special edition)- Silver&Gold Icons on Grey background](Set3/SilverGold/preview_sheet_SilverGold.jpg)<br>
+[Set3 - Yellow Icons on Grey background](Set3/Yellow/preview_sheet_Yellow.jpg)
+
+*Special Edition Set3 icons with different lighting*<br>
+[Set3 (Special edition)- SilverGold Icons on Grey background](Set3/SilverGold/preview_sheet_SilverGold.jpg)<br>
 [Set3 (Special edition)- SilverBlue Icons on Grey background](Set3/SilverBlue/preview_sheet_SilverBlue.jpg)
 
+*Set3 (Glow) icons again but with darker,lower lighting to light the objects more from the front*<br>
+[Set3 - LightGlow Icons on Grey background](Set3/LightGlow/preview_sheet_LightGlow.jpg)<br>
+[Set3 - DarkGlow Icons on Grey background](Set3/DarkGlow/preview_sheet_DarkGlow.jpg)
+
+*Limited Edition Set3 (Glow) icons:*<br>
+*These sets only contain 16 icons but also include a background image at various different sizes*<br>
+[Set3 - BlueGlow Icons on Grey background](Set3LE/BlueGlow/preview_sheet_BlueGlow.jpg)<br>
+[Set3 - GreenGlow Icons on Grey background](Set3LE/GreenGlow/preview_sheet_GreenGlow.jpg)<br>
+[Set3 - LightBlueGlow Icons on Grey background](Set3LE/LightBlueGlow/preview_sheet_LightBlueGlow.jpg)<br>
+[Set3 - OrangeGlow Icons on Grey background](Set3LE/OrangeGlow/preview_sheet_OrangeGlow.jpg)<br>
+[Set3 - RedGlow Icons on Grey background](Set3LE/RedGlow/preview_sheet_RedGlow.jpg)
+
+**Set4**<br>
+*At attempt as overhead icons with long shadows*<br>
 [Set4 - Light Grey (Non-Alpha) Icons on Grey background (Note: These icons are on solid grey background)](Set4/Grey/preview_sheet_Grey.jpg)<br>
 [Set4 - Grey Icons with ghost shadow on black background](Set4/Grey_Ghost_Shadow/preview_sheet_Grey_Ghost_Shadow.jpg)<br>
 [Set4 - Coloured Icons with ghost shadow on black background](Set4/Coloured_Ghost_Shadow/preview_sheet_Coloured_Ghost_Shadow.jpg)<br>
