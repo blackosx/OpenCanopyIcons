@@ -18,12 +18,12 @@ For details about how to use these then please consult the [OpenCore configurati
 [Set1 - All Current Icons on Black background](https://i.ibb.co/RDK9v1Z/Set1-All-Current-Icons-Black-BG.jpg)
 
 **Set2**<br>
-*Same icon as Set1 but with using more reflective materials*<br>
+*Larger range of icons based on the same style as Set1 but using more reflective materials*<br>
 [Set2 - All Current Icons on Grey background](https://i.ibb.co/ZTHytc4/Set2-All-Current-Icons-Grey-BG.jpg)<br>
 [Set2 - All Current Icons on Black background](https://i.ibb.co/Tcn05mb/Set2-All-Current-Icons-Black-BG.jpg)
 
 **Set3**<br>
-*Narrowed Set2 device icons and additionally designed devices, all with brighter lighting*<br>
+*Improving further upon the Set2 icon design with narrower and additionally designed devices, all with brighter lighting*<br>
 [Set3 - Light Icons on Grey background](Set3/Light/preview_sheet_Light.jpg)<br>
 [Set3 - Dark Icons on Grey background](Set3/Dark/preview_sheet_Dark.jpg)<br>
 [Set3 - Aqua Icons on Grey background](Set3/Aqua/preview_sheet_Aqua.jpg)<br>
