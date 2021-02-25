@@ -6,10 +6,13 @@ The files are in Apple .icns file format and contain only images for 1x and 2x s
 
 The idea is that a user can choose to select one or more icons from this collection to enhance their GUI experience. They can either replace images that are already in their OpenCanopy's /Resources/Image directory, renaming the icons from here with the same name, or rename the icon from here as .VolumeIcon.icns and place at the root of the volume as a hidden file, and adjusting the PickerAttributes in config.plist accordingly.
 
-For icon packs which can be used in OpenCanopy's /Resources/Image directory please see [OpenCanopyIconPacks](https://github.com/blackosx/OpenCanopyIconPacks).
-
 For details about how to use these then please consult the [OpenCore configuration documentation PDF](https://github.com/acidanthera/OpenCorePkg/blob/master/Docs/Configuration.pdf).<br>
 You can also check the [GUI setup instructions in the Dortania guide](https://dortania.github.io/OpenCore-Post-Install/cosmetic/gui.html#setting-up-opencores-gui).
+
+## Icon packs
+I did start to collect individual icons in to packs and host them at [OpenCanopyIconPacks](https://github.com/blackosx/OpenCanopyIconPacks) but due to OpenCanopy being experimental and subject to changing requirements and mandatory icons I feel this process leads to out of date icon packs which need time to rebuild. So for now, I will not be updating these packs.
+
+For reference, the existing BOCIP_3 icon packs have been updated to include Left and Right icons for OpenCore 0.6.6, but all others are older and NOT up to date for recent versions of OpenCanopy.
 
 ## Previews
 
