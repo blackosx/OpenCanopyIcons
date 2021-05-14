@@ -72,6 +72,136 @@ For reference, the existing BOCIP_3 icon packs have been updated to include Left
 [Set4 - Black_Shadows_White on Black background](Set4/Black_Shadows_White/preview_sheet_Black_Shadows_White.jpg)<br>
 [Set4 - Black_Plain Icons Grey background](Set4/Black_Plain/preview_sheet_Black_Plain.jpg)
 
+**Set5**<br>
+[Set5 - iMacBlue Icons on Grey background](Set5/iMac/iMacBlue/preview_sheet_iMacBlue.jpg)<br>
+[Set5 - iMacGreen Icons on Grey background](Set5/iMac/iMacGreen/preview_sheet_iMacGreen.jpg)<br>
+[Set5 - iMacOrange Icons on Grey background](Set5/iMac/iMacOrange/preview_sheet_iMacOrange.jpg)<br>
+[Set5 - iMacPink Icons on Grey background](Set5/iMac/iMacPink/preview_sheet_iMacPink.jpg)<br>
+[Set5 - iMacPurple Icons on Grey background](Set5/iMac/iMacPurple/preview_sheet_iMacPurple.jpg)<br>
+[Set5 - iMacSilver Icons on Grey background](Set5/iMac/iMacSilver/preview_sheet_iMacSilver.jpg)<br>
+[Set5 - iMacYellow Icons on Grey background](Set5/iMac/iMacYellow/preview_sheet_iMacYellow.jpg)<br>
+
+*Icon sets with multiple sets in different colours*<br>
+Set5 - FlatTile | 
+[0](Set5/FlatTile/FlatTile_0/preview_sheet_FlatTile_0.jpg),
+[18](Set5/FlatTile/FlatTile_18/preview_sheet_FlatTile_18.jpg),
+[36](Set5/FlatTile/FlatTile_36/preview_sheet_FlatTile_36.jpg),
+[54](Set5/FlatTile/FlatTile_54/preview_sheet_FlatTile_54.jpg),
+[72](Set5/FlatTile/FlatTile_72/preview_sheet_FlatTile_72.jpg),
+[90](Set5/FlatTile/FlatTile_90/preview_sheet_FlatTile_90.jpg),
+[108](Set5/FlatTile/FlatTile_108/preview_sheet_FlatTile_108.jpg),
+[126](Set5/FlatTile/FlatTile_126/preview_sheet_FlatTile_126.jpg),
+[144](Set5/FlatTile/FlatTile_144/preview_sheet_FlatTile_144.jpg),
+[162](Set5/FlatTile/FlatTile_162/preview_sheet_FlatTile_162.jpg),
+[180](Set5/FlatTile/FlatTile_180/preview_sheet_FlatTile_180.jpg),
+[198](Set5/FlatTile/FlatTile_198/preview_sheet_FlatTile_198.jpg),
+[216](Set5/FlatTile/FlatTile_216/preview_sheet_FlatTile_216.jpg),
+[234](Set5/FlatTile/FlatTile_234/preview_sheet_FlatTile_234.jpg),
+[252](Set5/FlatTile/FlatTile_252/preview_sheet_FlatTile_252.jpg),
+[270](Set5/FlatTile/FlatTile_270/preview_sheet_FlatTile_270.jpg),
+[288](Set5/FlatTile/FlatTile_288/preview_sheet_FlatTile_288.jpg),
+[306](Set5/FlatTile/FlatTile_306/preview_sheet_FlatTile_306.jpg),
+[324](Set5/FlatTile/FlatTile_324/preview_sheet_FlatTile_324.jpg),
+[342](Set5/FlatTile/FlatTile_342/preview_sheet_FlatTile_342.jpg),
+[Black](Set5/FlatTile/FlatTile_Black/preview_sheet_FlatTile_Black.jpg)<br>
+Set5 - Glassy | 
+[0](Set5/Glassy/Glassy_0/preview_sheet_Glassy_0.jpg),
+[15](Set5/Glassy/Glassy_15/preview_sheet_Glassy_15.jpg),
+[30](Set5/Glassy/Glassy_30/preview_sheet_Glassy_30.jpg),
+[45](Set5/Glassy/Glassy_45/preview_sheet_Glassy_45.jpg),
+[60](Set5/Glassy/Glassy_60/preview_sheet_Glassy_60.jpg),
+[75](Set5/Glassy/Glassy_75/preview_sheet_Glassy_75.jpg),
+[90](Set5/Glassy/Glassy_90/preview_sheet_Glassy_90.jpg),
+[105](Set5/Glassy/Glassy_105/preview_sheet_Glassy_105.jpg),
+[120](Set5/Glassy/Glassy_120/preview_sheet_Glassy_120.jpg),
+[135](Set5/Glassy/Glassy_135/preview_sheet_Glassy_135.jpg),
+[150](Set5/Glassy/Glassy_150/preview_sheet_Glassy_150.jpg),
+[165](Set5/Glassy/Glassy_165/preview_sheet_Glassy_165.jpg),
+[180](Set5/Glassy/Glassy_180/preview_sheet_Glassy_180.jpg),
+[195](Set5/Glassy/Glassy_195/preview_sheet_Glassy_195.jpg),
+[210](Set5/Glassy/Glassy_210/preview_sheet_Glassy_210.jpg),
+[225](Set5/Glassy/Glassy_225/preview_sheet_Glassy_225.jpg),
+[240](Set5/Glassy/Glassy_240/preview_sheet_Glassy_240.jpg),
+[255](Set5/Glassy/Glassy_255/preview_sheet_Glassy_255.jpg),
+[270](Set5/Glassy/Glassy_270/preview_sheet_Glassy_270.jpg),
+[285](Set5/Glassy/Glassy_285/preview_sheet_Glassy_285.jpg),
+[300](Set5/Glassy/Glassy_300/preview_sheet_Glassy_300.jpg),
+[315](Set5/Glassy/Glassy_315/preview_sheet_Glassy_315.jpg),
+[330](Set5/Glassy/Glassy_330/preview_sheet_Glassy_330.jpg),
+[345](Set5/Glassy/Glassy_345/preview_sheet_Glassy_345.jpg)<br>
+Set5 - GlassyTileIndent | 
+[0](Set5/GlassyTileIndent/GlassyTileIndent_0/preview_sheet_GlassyTileIndent_0.jpg),
+[18](Set5/GlassyTileIndent/GlassyTileIndent_18/preview_sheet_GlassyTileIndent_18.jpg),
+[36](Set5/GlassyTileIndent/GlassyTileIndent_36/preview_sheet_GlassyTileIndent_36.jpg),
+[54](Set5/GlassyTileIndent/GlassyTileIndent_54/preview_sheet_GlassyTileIndent_54.jpg),
+[72](Set5/GlassyTileIndent/GlassyTileIndent_72/preview_sheet_GlassyTileIndent_72.jpg),
+[90](Set5/GlassyTileIndent/GlassyTileIndent_90/preview_sheet_GlassyTileIndent_90.jpg),
+[108](Set5/GlassyTileIndent/GlassyTileIndent_108/preview_sheet_GlassyTileIndent_108.jpg),
+[126](Set5/GlassyTileIndent/GlassyTileIndent_126/preview_sheet_GlassyTileIndent_126.jpg),
+[144](Set5/GlassyTileIndent/GlassyTileIndent_144/preview_sheet_GlassyTileIndent_144.jpg),
+[162](Set5/GlassyTileIndent/GlassyTileIndent_162/preview_sheet_GlassyTileIndent_162.jpg),
+[180](Set5/GlassyTileIndent/GlassyTileIndent_180/preview_sheet_GlassyTileIndent_180.jpg),
+[198](Set5/GlassyTileIndent/GlassyTileIndent_198/preview_sheet_GlassyTileIndent_198.jpg),
+[216](Set5/GlassyTileIndent/GlassyTileIndent_216/preview_sheet_GlassyTileIndent_216.jpg),
+[234](Set5/GlassyTileIndent/GlassyTileIndent_234/preview_sheet_GlassyTileIndent_234.jpg),
+[252](Set5/GlassyTileIndent/GlassyTileIndent_252/preview_sheet_GlassyTileIndent_252.jpg),
+[270](Set5/GlassyTileIndent/GlassyTileIndent_270/preview_sheet_GlassyTileIndent_270.jpg),
+[288](Set5/GlassyTileIndent/GlassyTileIndent_288/preview_sheet_GlassyTileIndent_288.jpg),
+[306](Set5/GlassyTileIndent/GlassyTileIndent_306/preview_sheet_GlassyTileIndent_306.jpg),
+[324](Set5/GlassyTileIndent/GlassyTileIndent_324/preview_sheet_GlassyTileIndent_324.jpg),
+[342](Set5/GlassyTileIndent/GlassyTileIndent_342/preview_sheet_GlassyTileIndent_342.jpg),
+[Black](Set5/GlassyTileIndent/GlassyTileIndent_Black/preview_sheet_GlassyTileIndent_Black.jpg)<br>
+Set5 - Marble | 
+[0](Set5/Marble/Marble_0/preview_sheet_Marble_0.jpg),
+[15](Set5/Marble/Marble_15/preview_sheet_Marble_15.jpg),
+[30](Set5/Marble/Marble_30/preview_sheet_Marble_30.jpg),
+[45](Set5/Marble/Marble_45/preview_sheet_Marble_45.jpg),
+[60](Set5/Marble/Marble_60/preview_sheet_Marble_60.jpg),
+[75](Set5/Marble/Marble_75/preview_sheet_Marble_75.jpg),
+[90](Set5/Marble/Marble_90/preview_sheet_Marble_90.jpg),
+[105](Set5/Marble/Marble_105/preview_sheet_Marble_105.jpg),
+[120](Set5/Marble/Marble_120/preview_sheet_Marble_120.jpg),
+[135](Set5/Marble/Marble_135/preview_sheet_Marble_135.jpg),
+[150](Set5/Marble/Marble_150/preview_sheet_Marble_150.jpg),
+[165](Set5/Marble/Marble_165/preview_sheet_Marble_165.jpg),
+[180](Set5/Marble/Marble_180/preview_sheet_Marble_180.jpg),
+[195](Set5/Marble/Marble_195/preview_sheet_Marble_195.jpg),
+[210](Set5/Marble/Marble_210/preview_sheet_Marble_210.jpg),
+[225](Set5/Marble/Marble_225/preview_sheet_Marble_225.jpg),
+[240](Set5/Marble/Marble_240/preview_sheet_Marble_240.jpg),
+[255](Set5/Marble/Marble_255/preview_sheet_Marble_255.jpg),
+[270](Set5/Marble/Marble_270/preview_sheet_Marble_270.jpg),
+[285](Set5/Marble/Marble_285/preview_sheet_Marble_285.jpg),
+[300](Set5/Marble/Marble_300/preview_sheet_Marble_300.jpg),
+[315](Set5/Marble/Marble_315/preview_sheet_Marble_315.jpg),
+[330](Set5/Marble/Marble_330/preview_sheet_Marble_330.jpg),
+[345](Set5/Marble/Marble_345/preview_sheet_Marble_345.jpg)<br>
+Set5 - WindowReflection | 
+[0](Set5/WindowReflection/WindowReflection_0/preview_sheet_WindowReflection_0.jpg),
+[15](Set5/WindowReflection/WindowReflection_15/preview_sheet_WindowReflection_15.jpg),
+[30](Set5/WindowReflection/WindowReflection_30/preview_sheet_WindowReflection_30.jpg),
+[45](Set5/WindowReflection/WindowReflection_45/preview_sheet_WindowReflection_45.jpg),
+[60](Set5/WindowReflection/WindowReflection_60/preview_sheet_WindowReflection_60.jpg),
+[75](Set5/WindowReflection/WindowReflection_75/preview_sheet_WindowReflection_75.jpg),
+[90](Set5/WindowReflection/WindowReflection_90/preview_sheet_WindowReflection_90.jpg),
+[105](Set5/WindowReflection/WindowReflection_105/preview_sheet_WindowReflection_105.jpg),
+[120](Set5/WindowReflection/WindowReflection_120/preview_sheet_WindowReflection_120.jpg),
+[135](Set5/WindowReflection/WindowReflection_135/preview_sheet_WindowReflection_135.jpg),
+[150](Set5/WindowReflection/WindowReflection_150/preview_sheet_WindowReflection_150.jpg),
+[165](Set5/WindowReflection/WindowReflection_165/preview_sheet_WindowReflection_165.jpg),
+[180](Set5/WindowReflection/WindowReflection_180/preview_sheet_WindowReflection_180.jpg),
+[195](Set5/WindowReflection/WindowReflection_195/preview_sheet_WindowReflection_195.jpg),
+[210](Set5/WindowReflection/WindowReflection_210/preview_sheet_WindowReflection_210.jpg),
+[225](Set5/WindowReflection/WindowReflection_225/preview_sheet_WindowReflection_225.jpg),
+[240](Set5/WindowReflection/WindowReflection_240/preview_sheet_WindowReflection_240.jpg),
+[255](Set5/WindowReflection/WindowReflection_255/preview_sheet_WindowReflection_255.jpg),
+[270](Set5/WindowReflection/WindowReflection_270/preview_sheet_WindowReflection_270.jpg),
+[285](Set5/WindowReflection/WindowReflection_285/preview_sheet_WindowReflection_285.jpg),
+[300](Set5/WindowReflection/WindowReflection_300/preview_sheet_WindowReflection_300.jpg),
+[315](Set5/WindowReflection/WindowReflection_315/preview_sheet_WindowReflection_315.jpg),
+[330](Set5/WindowReflection/WindowReflection_330/preview_sheet_WindowReflection_330.jpg),
+[345](Set5/WindowReflection/WindowReflection_345/preview_sheet_WindowReflection_345.jpg)<br>
+
 ## License
 
 Set1 and Set2 are released under the CC0 1.0 Universal (CC0 1.0) license to dedicate the work to the public domain so those directories each include that license file.
