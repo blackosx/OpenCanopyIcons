@@ -82,7 +82,7 @@ For reference, the existing BOCIP_3 icon packs have been updated to include Left
 [Set5 - iMacYellow Icons on Grey background](Set5/iMac/iMacYellow/preview_sheet_iMacYellow.jpg)<br>
 
 *Icon sets with multiple sets in different colours*<br>
-Set5 - FlatTile | 
+Set5 - FlatTile (
 [0](Set5/FlatTile/FlatTile_0/preview_sheet_FlatTile_0.jpg),
 [18](Set5/FlatTile/FlatTile_18/preview_sheet_FlatTile_18.jpg),
 [36](Set5/FlatTile/FlatTile_36/preview_sheet_FlatTile_36.jpg),
@@ -103,8 +103,8 @@ Set5 - FlatTile |
 [306](Set5/FlatTile/FlatTile_306/preview_sheet_FlatTile_306.jpg),
 [324](Set5/FlatTile/FlatTile_324/preview_sheet_FlatTile_324.jpg),
 [342](Set5/FlatTile/FlatTile_342/preview_sheet_FlatTile_342.jpg),
-[Black](Set5/FlatTile/FlatTile_Black/preview_sheet_FlatTile_Black.jpg)<br>
-Set5 - Glassy | 
+[Black](Set5/FlatTile/FlatTile_Black/preview_sheet_FlatTile_Black.jpg))<br>
+Set5 - Glassy | (
 [0](Set5/Glassy/Glassy_0/preview_sheet_Glassy_0.jpg),
 [15](Set5/Glassy/Glassy_15/preview_sheet_Glassy_15.jpg),
 [30](Set5/Glassy/Glassy_30/preview_sheet_Glassy_30.jpg),
@@ -128,8 +128,8 @@ Set5 - Glassy |
 [300](Set5/Glassy/Glassy_300/preview_sheet_Glassy_300.jpg),
 [315](Set5/Glassy/Glassy_315/preview_sheet_Glassy_315.jpg),
 [330](Set5/Glassy/Glassy_330/preview_sheet_Glassy_330.jpg),
-[345](Set5/Glassy/Glassy_345/preview_sheet_Glassy_345.jpg)<br>
-Set5 - GlassyTileIndent | 
+[345](Set5/Glassy/Glassy_345/preview_sheet_Glassy_345.jpg))<br>
+Set5 - GlassyTileIndent | (
 [0](Set5/GlassyTileIndent/GlassyTileIndent_0/preview_sheet_GlassyTileIndent_0.jpg),
 [18](Set5/GlassyTileIndent/GlassyTileIndent_18/preview_sheet_GlassyTileIndent_18.jpg),
 [36](Set5/GlassyTileIndent/GlassyTileIndent_36/preview_sheet_GlassyTileIndent_36.jpg),
@@ -150,8 +150,8 @@ Set5 - GlassyTileIndent |
 [306](Set5/GlassyTileIndent/GlassyTileIndent_306/preview_sheet_GlassyTileIndent_306.jpg),
 [324](Set5/GlassyTileIndent/GlassyTileIndent_324/preview_sheet_GlassyTileIndent_324.jpg),
 [342](Set5/GlassyTileIndent/GlassyTileIndent_342/preview_sheet_GlassyTileIndent_342.jpg),
-[Black](Set5/GlassyTileIndent/GlassyTileIndent_Black/preview_sheet_GlassyTileIndent_Black.jpg)<br>
-Set5 - Marble | 
+[Black](Set5/GlassyTileIndent/GlassyTileIndent_Black/preview_sheet_GlassyTileIndent_Black.jpg))<br>
+Set5 - Marble | (
 [0](Set5/Marble/Marble_0/preview_sheet_Marble_0.jpg),
 [15](Set5/Marble/Marble_15/preview_sheet_Marble_15.jpg),
 [30](Set5/Marble/Marble_30/preview_sheet_Marble_30.jpg),
@@ -175,8 +175,8 @@ Set5 - Marble |
 [300](Set5/Marble/Marble_300/preview_sheet_Marble_300.jpg),
 [315](Set5/Marble/Marble_315/preview_sheet_Marble_315.jpg),
 [330](Set5/Marble/Marble_330/preview_sheet_Marble_330.jpg),
-[345](Set5/Marble/Marble_345/preview_sheet_Marble_345.jpg)<br>
-Set5 - WindowReflection | 
+[345](Set5/Marble/Marble_345/preview_sheet_Marble_345.jpg))<br>
+Set5 - WindowReflection | (
 [0](Set5/WindowReflection/WindowReflection_0/preview_sheet_WindowReflection_0.jpg),
 [15](Set5/WindowReflection/WindowReflection_15/preview_sheet_WindowReflection_15.jpg),
 [30](Set5/WindowReflection/WindowReflection_30/preview_sheet_WindowReflection_30.jpg),
@@ -200,7 +200,16 @@ Set5 - WindowReflection |
 [300](Set5/WindowReflection/WindowReflection_300/preview_sheet_WindowReflection_300.jpg),
 [315](Set5/WindowReflection/WindowReflection_315/preview_sheet_WindowReflection_315.jpg),
 [330](Set5/WindowReflection/WindowReflection_330/preview_sheet_WindowReflection_330.jpg),
-[345](Set5/WindowReflection/WindowReflection_345/preview_sheet_WindowReflection_345.jpg)<br>
+[345](Set5/WindowReflection/WindowReflection_345/preview_sheet_WindowReflection_345.jpg),
+[Black](Set5/WindowReflection/WindowReflection_Black/preview_sheet_WindowReflection_Black.jpg),
+[Bright_0](Set5/WindowReflection/WindowReflection_Bright_0/preview_sheet_WindowReflection_Bright_0.jpg),
+[Bright_45](Set5/WindowReflection/WindowReflection_Bright_45/preview_sheet_WindowReflection_Bright_45.jpg),
+[Bright_90](Set5/WindowReflection/WindowReflection_Bright_90/preview_sheet_WindowReflection_Bright_90.jpg),
+[Bright_135](Set5/WindowReflection/WindowReflection_Bright_135/preview_sheet_WindowReflection_Bright_135.jpg),
+[Bright_180](Set5/WindowReflection/WindowReflection_Bright_180/preview_sheet_WindowReflection_Bright_180.jpg),
+[Bright_225](Set5/WindowReflection/WindowReflection_Bright_225/preview_sheet_WindowReflection_Bright_225.jpg),
+[Bright_270](Set5/WindowReflection/WindowReflection_Bright_270/preview_sheet_WindowReflection_Bright_270.jpg),
+[Bright_315](Set5/WindowReflection/WindowReflection_Bright_315/preview_sheet_WindowReflection_Bright_315.jpg))<br>
 
 ## License
 
